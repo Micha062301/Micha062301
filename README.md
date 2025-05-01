@@ -12,22 +12,21 @@
         <img src="https://komarev.com/ghpvc/?username=Micha062301&label=Profile%20views&color=0e75b6&style=flat" alt="Micha062301" />
       </p>
 
-      ##  Welcome ！
+## ⛩ Welcome ようこそ！
 
-      ### ❓ Why ML enthusiast, you ask?
-      Because I’m hooked on crafting intelligent systems that predict, adapt, and solve real-world problems—think cutting-edge models that learn like magic! (Yes, I’m that passionate 😎)
+### ❓ Why ML enthusiast, you ask?
+Because I'm hooked on crafting intelligent systems that predict, adapt, and solve real-world problems—think cutting-edge models that learn like magic! (Yes, I'm that passionate 😎)
 
-      ### 🦾 Ask me about:
-      ```Python, C++, TensorFlow, PyTorch, Django, AWS, SQLite, NumPy, Pandas, Scikit-learn```
+### 🦾 Ask me about:
+```Python, C++, TensorFlow, PyTorch, Django, AWS, SQLite, NumPy, Pandas, Scikit-learn```
 
-      ### 💬 How to reach me:
-      micha.062301@gmail.com
+### 💬 How to reach me:
+micha.062301@gmail.com
 
-      ### ⚡️ Fun fact:
-      I sketch startup ideas on napkins while training ML models—because who says you can’t code and dream big at the same time?
+### ⚡️ Fun fact:
+I sketch startup ideas on napkins while training ML models—because who says you can't code and dream big at the same time?
 
-  </td >
-    <td  width="45%" align="center" > <img align="center" src="https://drive.google.com/file/d/1FzQhNGRUwZ5xP5D5OyofVnL8pewZ5Kwk/view?usp=drive_link" width="430" /></td>
+
   </tr>
 </table>
 
@@ -59,10 +58,10 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Micha062301&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Mukund’s GitHub stats" height="200" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Micha062301&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Mukund's GitHub stats" height="200" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Micha062301&theme=radical&hide_border=true" alt="Mukund’s GitHub streak" height="200" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Micha062301&theme=radical&hide_border=true" alt="Mukund's GitHub streak" height="200" />
     </td>
   </tr>
 </table>
