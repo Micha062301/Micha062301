@@ -48,7 +48,13 @@ I sketch startup ideas on napkins while training ML models—because who says yo
 
 <!-- Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,django,aws,sqlite,html,css,javascript,git,github,vscode,linux,markdown,numpy,pandas,scikitlearn"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,django,flask,fastapi,react,nodejs" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,mongodb,mysql,postgres,sqlite" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,git,github,vscode,linux,bash" />
 </p>
 
 <!-- Line divider -->
