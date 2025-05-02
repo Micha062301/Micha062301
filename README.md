@@ -1,8 +1,7 @@
 <!-- Animated name -->
 <a>
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&pause=500&color=7F00FF¢er=true&vCenter=true&width=1000&height=100&lines=I'm+Mukund+Swaroop!;ML+Enthusiast+from+India">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=42&pause=500&color=7F00FF&center=true&vCenter=true&width=1000&height=100&lines=I'm+Mukund+Swaroop!;ML+Enthusiast+from+India" alt="Typing SVG">
 </a>
-
 <!-- Content Table -->
 <table align="center">
   <tr>
@@ -11,7 +10,6 @@
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=Micha062301&label=Profile%20views&color=0e75b6&style=flat" alt="Micha062301" />
       </p>
-
 ## ⛩ Welcome ようこそ！
 
 ### ❓ Why ML enthusiast, you ask?
