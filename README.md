@@ -11,7 +11,7 @@
         <img src="https://komarev.com/ghpvc/?username=Micha062301&label=Profile%20views&color=0e75b6&style=flat" alt="Micha062301" />
       </p>
       
-## ⛩ Welcome 안녕하세요！
+## ⛩ Welcome 안녕！
 
 ### ❓ Why ML enthusiast, you ask?
 Because I'm hooked on crafting intelligent systems that predict, adapt, and solve real-world problems—think cutting-edge models that learn like magic! (Yes, I'm that passionate 😎)
