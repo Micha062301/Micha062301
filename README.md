@@ -1,6 +1,6 @@
 <!-- Animated name -->
 <a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=42&pause=500&color=7F00FF&center=true&vCenter=true&width=1000&height=100&lines=I'm+Mukund+Swaroop!;ML+Enthusiast+from+India" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=42&pause=500&color=7F00FF&center=true&vCenter=true&width=1000&height=100&lines=I'm+Mukund+Swaroop!;AI+Enthusiast+from+India" alt="Typing SVG">
 </a>
 <!-- Content Table -->
 <table align="center">
