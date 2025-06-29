@@ -13,7 +13,7 @@
       
 ## ⛩ Welcome 안녕！
 
-### ❓ Why ML enthusiast, you ask?
+### ❓ Why AI enthusiast, you ask?
 Because I'm hooked on crafting intelligent systems that predict, adapt, and solve real-world problems—think cutting-edge models that learn like magic! (Yes, I'm that passionate 😎)
 
 ### 🦾 Ask me about:
